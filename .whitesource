@@ -5,8 +5,7 @@
     "projectToken": "",
     "baseBranches": [],
     "enableLicenseViolations": true,
-    "achireveExtractionDepth":"0",
-    "enableIaC": true
+    "archiveExtractionDepth":"0"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
